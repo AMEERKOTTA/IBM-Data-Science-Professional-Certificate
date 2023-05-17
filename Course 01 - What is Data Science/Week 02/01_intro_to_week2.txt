@@ -1,0 +1,10 @@
++ Define Big Data and its distinguishing characteristics, such as velocity, volume, veracity, and value
++ Describe how Hadoop and other big data tools, 
+  combined with distributed computing power, are triggering digital transformation.
++ List some of the skills required to be a data scientist and analyze big data. 
+  List some of the skills required to analyze big data.
++ Explain what data mining is.
++ Summarize the importance of establishing goals, data selection, 
+  preprocessing, transformation, and storage of data in preparation for data mining.
++ Explain the difference between deep learning and machine learning.
++ Describe regression and how it might be used to predict market behavior and trend analysis.
