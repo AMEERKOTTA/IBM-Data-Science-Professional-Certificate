@@ -1,0 +1,7 @@
+Learning Objectives
+
+
++ Describe the components of a Data Scientist's toolkit and list various tool categories.
++ List examples of open-source tools used in data science.
++ Describe the relevant features of open-source tools.
++ List examples of commercial and cloud-based data science tools.
