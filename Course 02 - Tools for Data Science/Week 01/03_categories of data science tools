@@ -1,0 +1,17 @@
+For Data Science Process, the raw data must pass through Data Science Categories. Which are 
+    
+    1. Data Management.
+    2. Data Integration and Transformation.
+    3. Data Visualization.
+    4. Model Building.
+    5. Model Deployment.
+    6. Model Monitoring and Assessment.
+    
+These Process are Supported by tools and methods which are 
+
+    1. Code Asset Management.
+    2. Data Asset Management.
+    3. Development Environment.
+    4. Execution Environment.
+    
+There are tools available in the market to do all these process in one workspace like Fully Integrated Visual Tools.
