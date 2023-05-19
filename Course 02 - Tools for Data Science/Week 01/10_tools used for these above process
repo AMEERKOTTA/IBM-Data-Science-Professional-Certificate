@@ -1,0 +1,40 @@
+Tools used for the above Process
+================================
+
+1. Code Asset Management
+2. Data Asset Management
+3. Development Environment.
+4. Execution Enironment.
+5. Fully Integrated Visual Tools.
+
+
+Code Asset Management
+=====================
+
++ Unified view where you manage an Inventory of Assets.
++ Developers use versioning to track and manage changes to a Software's Project Codes.
++ Collaboration allows diverse people to share and update the same project together.
++ Example : GitHub
+
+Data Asset Management
+=====================
+
++ Platform for Organizing and Managing Data
++ Replication , backup and Access Right Management.
+
+Development Environment
+=======================
+
++ IDEs provides workspace and tools to work on Source Codes.
++ To develop, implement, execute, test, deploy
+
+Execution Environment
+=====================
+
++ An execution environment has libraries for code compiling and system resources to execute and verify code.
+
+
+Fully Integrated Visual Tools
+==============================
+
++ They are visual tools to cover all tooling components.
