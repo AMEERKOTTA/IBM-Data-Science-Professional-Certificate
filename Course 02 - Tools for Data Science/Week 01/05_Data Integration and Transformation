@@ -1,0 +1,21 @@
+Data Integration and Transformation 
+    
+      + is the process of EXTRACT, TRANSFORM and LOAD (ETL)
+      
+      EXTRACT
+      =======
+      + Extract is the process of Extracting the Data from Different Sources that are available.
+      
+      TRANSFORM
+      =========
+      + Data Transfromation is the process of transforming the values, structure and format of Data.
+      
+      LOAD
+      ====
+      + Tranformed Data needs to be Loaded to the Data Warehousing Services.
+      
+      
+Data Warehousing
+================
+
+Data Warehousing is used to Collect and Store Massive Amount of Data.
