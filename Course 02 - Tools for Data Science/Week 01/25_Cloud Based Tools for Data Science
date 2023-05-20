@@ -1,0 +1,52 @@
+Cloud Based Tools for Data Science
+==================================
+
+Fully Integrated Visual Tools and Platform
+==========================================
+
+    + Large Scale Execution and Data Science workflows Happens.
+    + Watson Studio
+    + Watson OpenScale
+    + Azure Machine Learning
+    + H2O Driverless AI
+    
+Data Management
+===============
+
+    + Amazon Dynamo DB
+    + Cloudant
+    + Couch DB
+    + IBM DB2
+    
+Data Integration and Transformation Tools
+=========================================
+
+    + Comprises ETL and ELT tools
+    + Informatica
+    + IBM Data Refinary.
+    
+Data Visualization Tools
+========================
+
+    + Datameer
+    + IBM Cognos Analytics
+    + IBM Watson Studio.
+    
+    
+Model Building
+==============
+
+    + IBM Watson Machine Learning
+    + Google Cloud
+    
+Model Deployement
+=================
+
+    + Tightly Integrated into the Model Building Process.
+    + Commercial Softwares can export models in Open format Such as PMML
+    
+Model Monitoring and Assessment
+===============================
+
+    + Amazon Sagemaker Model Monitor
+    + Watson OpenScale.
