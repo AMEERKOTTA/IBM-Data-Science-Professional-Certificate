@@ -1,0 +1,19 @@
+Application Programming Interfaces APIs
+=======================================
+
++ It allows communication between two pieces of Softwares.
++ REST APIs are another type of API
++ Representational State Transfer APIs.
++ Allows you to Communicate through the Internet.
++ Enable you to use Resources like Storage, data and AI algorithms.
+
+Working of REST APIs
+====================
+
++ Used to Interact with Web Services.
++ Here a Set of Rule Regarding.
+    + Communication
+    + Input or Request - Client
+    + Output or Response - Resources.
+    + Request contain HTTP JSON content
+    + Response contain HTTP JSON as response.
