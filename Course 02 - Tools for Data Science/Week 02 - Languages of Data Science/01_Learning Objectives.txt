@@ -1,0 +1,7 @@
+Learning Objectives
++ Identify the criteria and roles for determining the language to learn.
++ Identify the users and benefits of Python.
++ Identify the users and benefits of R language.
++ Define SQL elements and list its benefits.
++ Review languages such as Java, Scala, C++, JavaScript, and Julia.
++ List the global communities for connecting with other users.
