@@ -1,0 +1,7 @@
+Learning Objectives
++ Describe how to use the notebooks in JupyterLab.
++ Describe how to work in a notebook session.
++ Describe the basic Jupyter architecture.
++ Describe how to work with kernels.
++ Identify tools in Anaconda Jupyter environments.
++ Describe cloud based Jupyter environments and their data science features.
