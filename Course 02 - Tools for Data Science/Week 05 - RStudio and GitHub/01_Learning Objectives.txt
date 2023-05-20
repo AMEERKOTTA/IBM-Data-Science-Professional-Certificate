@@ -1,0 +1,8 @@
+Learning Objectives
++ Describe R capabilities and RStudio environment.
++ Use the inbuilt R plot function.
++ Explain version control and describe the Git and GitHub environment.
++ Describe the purpose of source repositories and explain how GitHub satisfies the needs of a source repository.
++ Explain how to sign up for a GitHub account and describe how to create a repository.
++ Demonstrate how to edit and upload files in GitHub.
++ Explain the purpose of branches and describe how to merge changes into branches.
