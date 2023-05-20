@@ -1,0 +1,59 @@
+Commercial Tools for Data Science
+=================================
+
+Data Management Tools
+======================
+
+    + Oracle Database.
+    + Microsoft SQL Server.
+    + IBM DB2
+    
+Data Integration and Transformation Tools
+=========================================
+
+    + Informatica
+    + IBM Infosphere Datastage
+    + talend
+    + IBM Watson Studio Desktop
+    
+ 
+    
+Data Visualization Tools
+========================
+
+    + Tableau
+    + Power BI
+    + IBM Cognos Analytics
+    + IBM Watson Studio Desktop
+    
+Model Building Tools
+=====================
+
+    + SPSS Modeller
+    + SAS Enterprose Miner.
+    
+    
+Model Monitoring and Code Assessment.
+=====================================
+
+Open Source 
+    + Model Monitoring
+    + Code Assessment Management.
+    
+Data Asset Management
+======================
+
+    Function include
+    
+      + Data Governance
+      + Data Versioned and Annotated
+      + Data Dictionary
+      + Data Lineage
+      + Data Privacy and Retention.
+      
+Development Environments
+========================
+
+    + Watson Studio Desktop
+    + Watson Open Scale
+    + H2o.ai - Driverless AI
