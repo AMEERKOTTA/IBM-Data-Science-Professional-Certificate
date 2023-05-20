@@ -1,0 +1,13 @@
+Data Integration and Transformation Tools
+==========================================
+
++ The Operation is ETL and ELT
++ Also Called as Data Refinary and Cleansing.
+
+Tools are 
+    + Apache Airflow
+    + Kubeflow
+    + Apache Kafka
+    + Apache nifi
+    + Spark SQL
+    + Node-Red
