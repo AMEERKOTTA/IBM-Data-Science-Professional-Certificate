@@ -1,0 +1,15 @@
+DATA MANAGEMENT TOOLS
+=====================
+
+Relational Databases Tools are 
+    + Postgre SQL
+    + My SQL
+NO SQL Databases like 
+    + mongo DB
+    + Couch DB
+    + Apache Cassandra
+File Systems are 
+    + Hadoop HDFS
+    + Ceph
+And 
+    + Elastic Search.
