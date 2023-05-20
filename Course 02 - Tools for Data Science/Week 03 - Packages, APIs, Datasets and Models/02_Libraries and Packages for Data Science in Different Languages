@@ -1,0 +1,42 @@
+Libraries and Packages for Data Science in Different Languages
+==============================================================
+
+  Scientific Computing Library
+  =============================
+  
+  + Pandas
+  + Numpy
+  
+  
+  Visualization Library in Python
+  ===============================
+  
+  + Matplotlib
+  + Seaborn
+  
+  ML and DL Libraries
+  ===================
+  
+  + Scikit Learn
+  + Keras
+  + TensorFlow
+  + PyTorch
+  + Apache Spark
+  
+  
+  Apache Spark is a General Purpose Cluster Computing Framework.
+  Apache Spark Data Processing Jobs can be in Python / R / Scala / SQL
+  
+  
+  Scala Libraries
+  ===============
+  
+  + Vegas is for Statistical Data Visualizations.
+  + Big DL for Deep Learning.
+  
+  
+  R-Libraries
+  ===========
+  
+  + ggplot2 for Data Visualizations in R
+  + Libraries that allows you to Interface with Keras and Tensorflow.
