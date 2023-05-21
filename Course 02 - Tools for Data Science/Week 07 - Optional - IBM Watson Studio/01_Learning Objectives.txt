@@ -1,0 +1,8 @@
+Learning Objectives
+
+
++ Find common resources in Watson Studio and IBM Cloud Pak for Data.
++ Create an IBM Cloud account, service, and project in Watson Studio.
++ Create and share a Jupyter Notebook.
++ Use different types of Jupyter Notebook templates and kernel.
++ Describe how to connect a Watson Studio account and publish a notebook in GitHub.
