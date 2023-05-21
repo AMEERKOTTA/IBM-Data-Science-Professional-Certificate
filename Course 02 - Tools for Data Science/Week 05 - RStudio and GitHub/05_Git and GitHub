@@ -1,0 +1,37 @@
+Git and GitHub
+==============
+
+Git
+===
+    + Free and Open Source Software.
+    + Distributed Version COntrol System.
+    + Accessible anywere in the World.
+    + One of the Most Version Control System Available.
+    + Can also Version Control Images, documents etc.
+    
+Terms associated with Version Controls.
+======================================
+
+    + SSH Protocol : A method for secure remote login from one computer to another.
+    + Repository : The folders of your Project that are setup for Version Control.
+    + Fork : A Copy of a Repository.
+    + Pull Request : The process you use to request that someone reviews and approves your 
+                      changes before they become final.
+    + Working Directory : A Directory of your file System, Including its files and SubDirectories
+                      that is associated with the Git Repository.
+                      
+                      
+GitHub : Basic Git Commands
+===========================
+
+    + init
+    + add
+    + status
+    + commit
+    + reset
+    + log
+    + branch
+    + merge
+    
+    
+    
