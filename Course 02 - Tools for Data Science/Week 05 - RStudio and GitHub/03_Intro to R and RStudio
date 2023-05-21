@@ -1,0 +1,36 @@
+Introduction to R and RStudio
+=============================
+
+Whats R?
+=======
+
+  + Statistical Programming Language.
+  + Used for Data Processing and Manipulation.
+  + Statistical Analysis, Data Analysis and Machine Learning can be done using R.
+  + R is used mostly by Academics, HealthCare, and Government.
+  + R Supports importing Data from Different Sources such as Flat Files, Databases, Web, Statistical Softwares.
+  
+R Capabilities
+==============
+
+  + It is easy to Use compared to Other Data Science Tools.
+  + Great tool for Visualization.
+  + Basic Data Analysis Does not require Installing Packages.
+  
+  
+R Studio
+========
+
+  + R Studio is an Integrated Development Environment (IDE)
+  + It increases the Productivity in Running and Programming Language.
+  
+  
+Popular R Libraries for Data Science.
+====================================
+
+  + dplyr   - Data Manipulation
+  + stingr  - String Manipulation
+  + ggplot  - Data Visualization 
+  + caret   - Machine Learning.
+  
+  
