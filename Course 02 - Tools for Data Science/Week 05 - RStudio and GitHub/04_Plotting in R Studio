@@ -1,0 +1,20 @@
+Plotting in R Studio
+====================
+
+Using Data Visualization in R
+=============================
+
+  + Install Packages like - install.packages<package name>.
+  + Packages are 
+                + ggplot : Histograms, Bar Charts, Scatter Plots.
+                + Plotly : Web Based Data Visualizations.
+                + Lattice : Complex Multi Variable Datasets.
+                + Leaflet : Interactive Plots.
+                
+                
+Using the Plot Functions 
+========================
+
++ Define the Cars vector with 5 Values. -- cars <- c(1,4,6,5,10)
++ Graphs the cars vector with all Defaults. - plot(cars, type = "0")
++ Create a Title - title(main = "Cars vs Index")
