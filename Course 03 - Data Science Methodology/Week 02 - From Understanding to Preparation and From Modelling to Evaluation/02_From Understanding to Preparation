@@ -1,0 +1,29 @@
+From Understanding to Preparation
+=================================
+
+Descriptive Statistics :
+========================
+    + Univariate Statistics
+    + Pairwise Correlations 
+    + Histograms
+    
+Histograms are a good way to understand how values or a variable are distributed,
+and what sort of Data Preparation may be needed to make the Variable more Useful in a Model.
+
+
+Data Quality Check :
+====================
+    + Missing Values
+    + Invalid or Misleading Values.
+    
+DATA COLLECTION IS AN ITERATIVE PROCESS
+
+Data Preparation :
+==================
+    + Data Preparation is one of the Most Important and Time Consuming Taks in Data Science Project.
+    + It will take 70-90% of the time to Prepare and Finalize the Data which needs to be Used in the Model.
+    
+Feature Engineering :
+=====================
+    + Process of using domain knowledge of data to create features that makes the ML algorithms works.
+    + Feature Engineering is critical when ML tools are being applied to analyze the data.
