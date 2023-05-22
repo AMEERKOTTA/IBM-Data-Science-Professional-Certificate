@@ -1,0 +1,8 @@
+Learning Objectives
+
++ Prepare a data set by handling missing, invalid, or misleading data.
++ Describe the purpose and characteristics of the data modeling process.
++ Evaluate a decision tree model using a training and a test dataset.
++ Build a decision to tree to determine the cuisine type for a data set of recipes.
++ Summarize the processes of understanding data preparing data, 
+	modeling, and evaluation phases of the data science methodology.
