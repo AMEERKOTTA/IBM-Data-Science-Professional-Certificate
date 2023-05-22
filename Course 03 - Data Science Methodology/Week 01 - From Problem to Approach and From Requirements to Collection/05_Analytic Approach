@@ -1,0 +1,28 @@
+Analytic Approach
+=================
+
+Pick Analytic Approach based on the Type of Question.
+
++ Descriptive : -- Current Status
++ Diagnostic (Statistical Analysis)
+                - What Happened?
+                - Why is this Happening ?
++ Predictive (Forecasting).
+                - What if the Trend Continues?
+                - What will happen Next?
++ Prescriptive.
+                - How do we solve this problem?
+                
+What are the Type of Questions.
+==============================
++ If the Question is to Determine the Probabilities of an Action - Use Predictive Model.
++ If the Question is to show Relationships - Use Descritive Model.
++ If the Question requires an Yes / No - Use Classification Model.
+
+
+Machine Learning:
+================
++ Learning from Data.
++ Without being explicitly Programmed.
++ Identifies Relationships and trends in data that might not be accessible or identified.
++ Uses clustering association approaches.
