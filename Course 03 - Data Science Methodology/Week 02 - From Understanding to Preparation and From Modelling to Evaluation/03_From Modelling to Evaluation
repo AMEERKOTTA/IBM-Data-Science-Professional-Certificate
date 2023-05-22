@@ -1,0 +1,12 @@
+From Modelling to Evaluation
+============================
+
++ Data Modelling is developing either Predictive or Descriptive Models.
++ Data Modelling needs Training Sets and Test Sets.
+
+Model Evaluation
+================
+
+  + The process of iterative evaluation of the model.
+  + To check whether we are getting desired output.
+  + And to Understand whether we need a tweak in the present model.
