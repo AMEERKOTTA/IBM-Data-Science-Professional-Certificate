@@ -1,0 +1,10 @@
+Learning Objectives
+
+
++ Describe and manipulate tuple combinations and list data structures.
++ Execute basic tuple operations in Python.
++ Perform list operations in Python.
++ Write structures with correct keys and values to demonstrate understanding of dictionaries.
++ Work with and perform operations on dictionaries in Python.
++ Create sets to demonstrate understanding of the differences between sets, tuples, and lists.
++ Work with sets in Python, including operations and logic operations
