@@ -8,5 +8,7 @@ Learning Objectives
 + Assess the performance and impact of a data model.
 + Explain why deployment and feedback should be an iterative process.
 + Devise a business problem to be solved with data related to either email, hospitals, or credit cards.
-+ Demonstrate your understanding of data science methodology by applying it to a given problem. Construct responses that 		address each phase of the CRISP-DM based on a chosen business problem.
-+ Evaluate your peers’ final projects using the given rubric. Provide constructive feedback and offer ideas and suggestions 		that fellow learners can apply right away.
++ Demonstrate your understanding of data science methodology by applying it to a given problem. Construct responses that 
+      address each phase of the CRISP-DM based on a chosen business problem.
++ Evaluate your peers’ final projects using the given rubric. Provide constructive feedback and offer ideas and suggestions 
+      that fellow learners can apply right away.
