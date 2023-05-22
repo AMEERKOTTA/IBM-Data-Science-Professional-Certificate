@@ -1,0 +1,23 @@
+METHODOLOGY : System of Methods used in a Particular Area of Study or Activity.
+==============================================================================
+
+Data Science Methodoly aims to answer for the following 10 Questions below.
+
+From Problem to Aproach
+=======================
+    1. What is the Problem that you are trying to solve?
+    2. How can you use data to answer the Questions?
+
+Working with Data 
+=================
+    3. What data do you need to answer the Question / Problem?
+    4. Where is the Data Coming from (identify all sources) and How will you get it?
+    5. Is the Data that you collected representative of the problem to be solved?
+    6. What additional work is required to manipulate and work with Data?
+    
+Deriving Answers
+================
+    7. In what way can the data to be visualized to get the answer that is required?
+    8. Does the model used really answer the initial question or does it need to be adjusted?
+    9. Can you put model into Practice?
+    10. Can you get COnstructive feedback into answering the Questions?
