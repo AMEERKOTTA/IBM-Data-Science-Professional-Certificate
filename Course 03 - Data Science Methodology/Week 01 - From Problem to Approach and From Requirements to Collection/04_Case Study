@@ -10,5 +10,16 @@ WHAT ARE THE GOALS AND OBJECTIVE?
     
   DEFINE THE OBJECTIVES
   =====================
-  
-    + To review the Process to Identify Inneficiencies in the Process.
+   + To review the Process to Identify Inneficiencies in the Process.
+   
+EXAMINING HOSPITAL READMISSIONS
+===============================
++ Roughly 25-35% of patients who completes rehab treatment will be readmitted to rehab centre in one year.
++ Roughly 50% will be readmitted within 5 years.
+    
+  IDENTIFY THE BUSINESS REQUIREMENTS
+  ==================================
+    1. Predict the CHF readmission outcome (Y/N) for each patient.
+    2. Predict the readmission risk for each patient.
+    3. Understand explicitly what combination of events led to the predicted outcome for each patient.
+    4. Easy to understand and apply to new patients to predict their readmission risk.
