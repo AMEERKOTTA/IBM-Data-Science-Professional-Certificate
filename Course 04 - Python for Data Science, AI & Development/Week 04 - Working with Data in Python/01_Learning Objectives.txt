@@ -1,0 +1,8 @@
+Learning Objectives
+
+
++ Explain how Pandas use data frames.
++ Use Pandas for library and data analysis by using commands.
++ Read text files using Python libraries including open and with.
++ Use NumPy to create one-dimensional and two-dimensional arrays.
++ Write and save files in Python.
