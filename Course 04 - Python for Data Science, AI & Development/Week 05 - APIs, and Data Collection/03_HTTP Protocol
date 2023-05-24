@@ -1,0 +1,54 @@
+HTTP Protocol
+=============
+
++ General Protocol of transforming information through the Web.
++ HTTP message usually contains a JSON File.
++ HTTP Parts (URL Parts) :
+
+          1. Scheme : http://
+          2. Internet Address or Base URL : www.ibm.com
+          3. Route : Location on the Web Server : /images/IDSNlogo.png
+          
+          
+Request and Response
+====================
+
+Request Message :  
+          
+            + Request Start Line
+            + Request Header
+            + Request Body
+            
+Response Message :
+
+            + Response Start Line
+            + Response Header
+            + Response Body (HTML Page)
+            
+Status Codes
+============
+
+1XX     -   Informational
+100     -   Everything is OK so far.
+
+2XX     -   Success
+200     -   OK
+
+3XX     -   Redirection
+300     -   Multiple Choices
+
+4XX     -   Client Error
+401     -   Unauthorized
+403     -   Forbidden
+404     -   Not Found
+
+500     -   Server Error
+501     -   No Implemented.
+
+HTTP Methods
+============
+
+GET       :-------  Retrieves Data from the Server.
+POST      :-------  Submits Data to Server.
+PUT       :-------  Updates Data already on Server.
+DELETE    :-------  Delete Data from Server.
