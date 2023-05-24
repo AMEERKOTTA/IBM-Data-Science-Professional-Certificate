@@ -1,0 +1,26 @@
+APIs and REST APIs and Explanation
+==================================
+
+What is an API
+==============
+
+  + Two Pieces of Software talk to each other.
+  
+REST APIs - REpresentational State Transfer
+===========================================
+
+   + Another type of API
+   + This API lets you communicate with the Internet.
+   + Data, AI algorithms and much More.
+   + REST APIs are used to interact with Web Services.
+   + Application that you call through the Internet.
+   + They have set of Rules regarding,
+          - Communication
+          - Input or Request
+          - Output or Response
+          
+          
+API Key and EndPoints
+=====================
+
+    + API Key will give you Access to the API.
