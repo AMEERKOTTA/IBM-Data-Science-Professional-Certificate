@@ -1,0 +1,9 @@
+Learning Objectives
+
+
++ Compose and execute CREATE TABLE, ALTER, DROP, and TRUNCATE statements hands-on on a live database.
++ Create a database instance on the Cloud
++ Describe basic relational database concepts including tables, primary keys and foreign keys.
++ Compare and contrast Data Definition Language and Data Manipulation Language.
++ Develop ALTER, DROP and TRUNCATE statements.
++ Explain the syntax of the CREATE TABLE statement.
