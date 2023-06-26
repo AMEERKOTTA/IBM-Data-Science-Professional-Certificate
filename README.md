@@ -7,4 +7,4 @@
 ### **Course 4 : Python for Data Science, AI and Development.**
 ### **Course 5 : Python Project for Data Science.**
 ### **Course 6 : Databases and SQL for Data Science with Python.**
-###
+### **Course 7 : Data Analysis with Python.**
