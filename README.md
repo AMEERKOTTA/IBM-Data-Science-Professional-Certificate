@@ -21,7 +21,7 @@
  + Multiple Histograms
  + Waffle Charts
  + Generalized Waffle Chart Function.
- + 
+ + GeoSpatial Data Analysis.
 ### **Course 9 : Machine Learning with Python**
 ### **Course 10 : Capstone Project for Data Science**
 
