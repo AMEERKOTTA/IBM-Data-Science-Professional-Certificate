@@ -23,6 +23,7 @@
  + Generalized Waffle Chart Function.
  + GeoSpatial Data Analysis.
  + Creating Dashboard with plotly and Dash.
+ + 
 ### **Course 9 : Machine Learning with Python**
 ### **Course 10 : Capstone Project for Data Science**
 
